@@ -1,3 +1,3 @@
 For starting the project clone it
-install package in npm package.json 
-connect to port 8000
+1 ) == >>install package in npm package.json 
+2 == >>connect to port 8000
